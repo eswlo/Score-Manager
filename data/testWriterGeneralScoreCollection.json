@@ -1,0 +1,25 @@
+{
+    "scoreList": [
+        {
+            "duration": "00:05:32",
+            "difficulty": 0,
+            "price": 10.31,
+            "fileValue": 1,
+            "filePath": "",
+            "instrumentation": "String Quartet",
+            "title": "A",
+            "yearComposed": 2019
+        },
+        {
+            "duration": "00:00:32",
+            "difficulty": 0,
+            "price": 8.05,
+            "fileValue": 1,
+            "filePath": "",
+            "instrumentation": "Piano Quartet",
+            "title": "B",
+            "yearComposed": 2000
+        }
+    ],
+    "scoreCollectionName": "My Score Collection"
+}

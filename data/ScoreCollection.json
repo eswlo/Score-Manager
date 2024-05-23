@@ -1,0 +1,45 @@
+{
+    "scoreList": [
+        {
+            "duration": "03:30:30",
+            "difficulty": 0,
+            "price": 50,
+            "fileValue": 0,
+            "filePath": "/Users/swlcu/Documents/3.pdf",
+            "instrumentation": "cello",
+            "title": "piece3",
+            "yearComposed": 2019
+        },
+        {
+            "duration": "02:02:02",
+            "difficulty": 0,
+            "price": 30,
+            "fileValue": -1,
+            "filePath": "",
+            "instrumentation": "piano",
+            "title": "piece4",
+            "yearComposed": 2023
+        },
+        {
+            "duration": "20:20:20",
+            "difficulty": 0,
+            "price": 20,
+            "fileValue": -1,
+            "filePath": "",
+            "instrumentation": "20",
+            "title": "piece5",
+            "yearComposed": 1999
+        },
+        {
+            "duration": "01:20:10",
+            "difficulty": 0,
+            "price": 1,
+            "fileValue": -1,
+            "filePath": "",
+            "instrumentation": "11",
+            "title": "piece6",
+            "yearComposed": 2015
+        }
+    ],
+    "scoreCollectionName": "My Score Collection"
+}
